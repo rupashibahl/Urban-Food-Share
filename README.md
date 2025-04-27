@@ -7,3 +7,4 @@ Here are the instructions to build and run the project.
 5. Copy the url and paste it into the browser's address bar.
 6. Once the website opens, add single ingredients one by one before clicking the "plus" button. Then, proceed by clicking the "Click Here to Donate Button."
 7. After that, you will get to another form. Once done, check that the stats at the top of the page are updated. 
+<img width="1497" alt="UrbanFoodShareImage" src="https://github.com/user-attachments/assets/769eae6e-c10b-4d0e-adde-6aac73d70801" />
